@@ -17,3 +17,5 @@ Smart River Project is a cross-device platform that underlines the context of sc
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/21102697/201931835-9e692409-7586-4c72-baac-a82b56c8e805.gif)
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/21102697/201933215-d0e1eaa0-81f4-4f28-8dfe-16d6a50a5256.gif)
+
+Article: https://link.springer.com/chapter/10.1007/978-3-030-91885-9_34
